@@ -1,0 +1,2 @@
+# 3.Fruits-game-jquery-
+ The Fruits Game is an engaging, browser-based game developed using HTML, CSS, and jQuery. Players aim to slice randomly falling fruits while avoiding missed fruits that reduce lives. The game features score tracking, a lives system with heart icons, and dynamic fruit generation at varying speeds to enhance difficulty. Upon slicing a fruit, a sound effect is played, and the fruit explodes with animation. The game ends when all lives are lost, displaying the player's final score. Players can reset the game to try again.
